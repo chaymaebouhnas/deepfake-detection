@@ -1,0 +1,13 @@
+venv/
+env/
+__pycache__/
+*.pyc
+*.h5
+*.mp4
+*.mov
+*.avi
+*.ipynb_checkpoints
+node_modules/
+.env
+.DS_Store
+.vscode/
